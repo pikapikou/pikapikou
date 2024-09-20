@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me DON'T REACH ME !!!
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I made a lights on app
 
 <!---
